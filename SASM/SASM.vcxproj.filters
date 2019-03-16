@@ -15,15 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sasm.cpp">
+    <ClCompile Include="student.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="function.cpp">
+    <ClCompile Include="manage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="view.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="sasm.h">
+    <ClInclude Include="student.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="manage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="view.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
